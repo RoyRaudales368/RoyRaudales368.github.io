@@ -1,0 +1,32 @@
+body {
+     background-color: #f8f9fa;
+     background-image: url('https://www.topgear.com/sites/default/files/2022/03/TopGear%20-%20Tesla%20Model%20Y%20-%20003.jpg');
+     background-size: cover;
+     background-repeat: repeat;
+   }
+   .navbar {
+     background-color: #000000; /* Cambiar color de fondo del navbar según tus preferencias */
+   }
+   .navbar-brand {
+     color: #ffffff; /* Cambiar color del texto del navbar-brand */
+     font-weight: bold;
+     font-size: 1.5rem;
+   }
+   .navbar-nav {
+     margin-left: auto;
+   }
+   .navbar-nav a {
+     color: #ffffff; /* Cambiar color del texto de los enlaces del navbar */
+     margin-right: 15px;
+   }
+   .jumbotron {
+     background: url('https://your-background-image-url.jpg') no-repeat center center fixed;
+     background-size: cover;
+     color: #ffffff;
+     text-align: center;
+     padding: 100px 0;
+     margin-bottom: 0;
+   }
+   .jumbotron h1 {
+     font-size: 3rem;
+   }
